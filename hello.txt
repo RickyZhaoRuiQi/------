@@ -40,5 +40,6 @@
 *.youtube.* +proxy
 *.facebook.* +proxy
 *.netflix.* +proxy
+*.zcssr.* +proxy
 
 * +direct
