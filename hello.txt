@@ -41,5 +41,6 @@
 *.facebook.* +proxy
 *.netflix.* +proxy
 *.zcssr.* +proxy
+*.wikipedia.* +proxy
 
 * +direct
