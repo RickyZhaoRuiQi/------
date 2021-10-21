@@ -42,5 +42,6 @@
 *.netflix.* +proxy
 *.zcssr.* +proxy
 *.wikipedia.* +proxy
+*.oracle.* +proxy
 
 * +direct
